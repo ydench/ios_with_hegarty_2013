@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 0821-FEA4
+
+ Directory of D:\temp\git_test2
+
+03/01/2013  04:07 PM    <DIR>          .
+03/01/2013  04:07 PM    <DIR>          ..
+03/01/2013  03:45 PM               250 .gitignore
+03/01/2013  04:07 PM               441 aaa.txt
+03/01/2013  04:07 PM                 0 aaa2.txt
+03/01/2013  03:45 PM                80 README.md
+               4 File(s)            771 bytes
+               2 Dir(s)  759,205,773,312 bytes free
